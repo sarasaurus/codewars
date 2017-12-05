@@ -9,5 +9,6 @@ Fix the bug so we can all go home early.
 
 Notes
 
-String str will never be null.
-BUGS
+String str will never be null.  
+
+https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
