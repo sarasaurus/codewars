@@ -4,7 +4,7 @@ function cubeOdd(arr) {
     const typeArr = arr.map(ele => typeof ele);
     console.log(typeArr, 'what type!');
     if (typeArr.includes("string")) {
-        return "undefined"
+        return undefined
     } else {
         return first.filter(ele => ele % 2 !== 0).reduce((a, b) => a + b);
     }
